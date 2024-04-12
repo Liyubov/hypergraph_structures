@@ -5,8 +5,8 @@ Repository for collection of computer science methods and mathematical approache
 ## methods comparison 
 We are working and comparing various existing frameworks and computational languages 
 
-1. Here we explore the computational languages of python (numpy and non-numpy frameworks) to compute and calculate the graph rewriting systems  https://github.com/Liyubov/hypergraphs_structures/blob/main/code%20notebooks/hyper_graph_motif_counting_rewriting_numpy.ipynb
-2. Here we expore other existing packages for computing the projected hypergraph properties https://github.com/Liyubov/hypergraphs_structures (see code repository)
+1. Here we explore the computational languages of python (numpy and non-numpy frameworks) to calculate the graph rewriting systems  https://github.com/Liyubov/hypergraphs_structures/blob/main/code%20notebooks/hyper_graph_motif_counting_rewriting_numpy.ipynb
+2. Here we expore other existing packages for computing projected hypergraph properties https://github.com/Liyubov/hypergraphs_structures 
 
 ## methods and existing repositories 
 
