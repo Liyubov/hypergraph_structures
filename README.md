@@ -1,5 +1,6 @@
 # methods to work with hypergraphs structures
 Repository for collection of computer science methods and mathematical approaches to work with hypergraph structures.
+Some of the details and motivation to develop this techniques is explained here https://sites.google.com/view/liubovkmatematike/research-projects/graphs-and-hypergraphs
 
 
 ## methods comparison 
